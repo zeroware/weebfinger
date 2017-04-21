@@ -1,0 +1,16 @@
+{
+  "name": "weebfinger",
+  "version": "0.0.1",
+  "dependencies": {
+    "xmldom": {
+      "version": "0.1.27",
+      "from": "xmldom@latest",
+      "resolved": "https://registry.npmjs.org/xmldom/-/xmldom-0.1.27.tgz"
+    },
+    "xpath": {
+      "version": "0.0.24",
+      "from": "xpath@latest",
+      "resolved": "https://registry.npmjs.org/xpath/-/xpath-0.0.24.tgz"
+    }
+  }
+}
